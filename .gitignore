@@ -1,0 +1,10 @@
+db.sqlite3
+__pycache__
+.idea/*
+media/*
+!__init__.py
+migrations
+
+*.jpg
+*.png
+bower_components
