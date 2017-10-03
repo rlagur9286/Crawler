@@ -7,4 +7,5 @@ migrations
 
 *.jpg
 *.png
-bower_components
+*.txt
+*.jpg
